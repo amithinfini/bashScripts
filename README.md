@@ -1,0 +1,2 @@
+# bashScripts
+#!/bin/bash
